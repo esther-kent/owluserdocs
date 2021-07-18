@@ -13,7 +13,7 @@ The following is a list of drivers certified for production use.
 | MySql | Native | Production |
 | Kafka | Native | Production |
 | DB2 | Native | Production |
-| GreenPlum | postgres | Production |
+| GreenPlum | Postgres | Production |
 | HDFS | HDFS connector | Production |
 
 The following is a list of drivers which are for test purposes (not certified yet for production usage).
