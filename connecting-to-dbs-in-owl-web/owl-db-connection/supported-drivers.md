@@ -33,4 +33,4 @@ The following is a list of drivers which are for test purposes (not certified ye
 | MS SQL Data Warehouse | Native | Preview |
 | Delta Lake | Native | Preview |
 | SAP HANA | Native | Preview |
-| MariaDB | Mysql Driver | Preview |
+| MariaDB | MySQL Driver | Preview |
