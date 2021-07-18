@@ -27,7 +27,7 @@ The following is a list of drivers which are for test purposes (not certified ye
 | Presto | Simba | Preview |
 | BigQuery | Simba JDBC for Web / Bigquery Spark Connector in Core | Preview |
 | GCS (Google Cloud Storage)| Google Cloud SDK for Web / GCS Spark Connector in Core | Preview |
-| Solr | Solr's JDBC | Preview |
+| Solr | Solr JDBC | Preview |
 | Phoenix | Native | Preview |
 | Cassandra | Native | Preview |
 | MS SQL Data Warehouse | Native | Preview |
