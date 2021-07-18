@@ -20,17 +20,17 @@ The following is a list of drivers which are for test purposes (not certified ye
 
 | Connection Type | Driver | Certification |
 |:--------------- |:------ |:------------- |
-| mongoDB | Junity | Preview |
+| MongoDB | Junity | Preview |
 | MapR Hive?? | MapR Hive Driver | Preview |
 | Redshift | Simba JDBC | Preview |
 | Athena | Simba JDBC | Preview |
 | Presto | Simba | Preview |
-| Bigquery | Simba JDBC for Web / Bigquery Spark Connector in Core | Preview |
-| GCS | Google Cloud SDK for Web / GCS Spark Conenctor in Core | Preview |
+| BigQuery | Simba JDBC for Web / Bigquery Spark Connector in Core | Preview |
+| GCS (Google Cloud Storage)| Google Cloud SDK for Web / GCS Spark Conenctor in Core | Preview |
 | Solr | Solr's JDBC | Preview |
 | Phoenix | Native | Preview |
 | Cassandra | Native | Preview |
-| MS SQL DW | Native | Preview |
+| MS SQL Data Warehouse | Native | Preview |
 | Delta Lake | Native | Preview |
 | SAP HANA | Native | Preview |
 | MariaDB | Mysql Driver | Preview |
