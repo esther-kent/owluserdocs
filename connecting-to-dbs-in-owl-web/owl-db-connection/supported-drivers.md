@@ -21,7 +21,7 @@ The following is a list of drivers which are for test purposes (not certified ye
 | Connection Type | Driver | Certification |
 |:--------------- |:------ |:------------- |
 | MongoDB | Junity | Preview |
-| MapR Hive?? | MapR Hive Driver | Preview |
+| MapR Hive | MapR Hive Driver | Preview |
 | Redshift | Simba JDBC | Preview |
 | Athena | Simba JDBC | Preview |
 | Presto | Simba | Preview |
